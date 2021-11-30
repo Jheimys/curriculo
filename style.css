@@ -1,0 +1,17 @@
+body{
+    background-color: #dfdfdf;
+    font-family: 'Raleway', sans-serif;
+    color:#222222;
+    margin: 0;
+}
+
+.main-photo{
+    width: 200px;
+    border: 2px solid #FFFFFF;
+    border-radius: 50%;
+    height: 220px;
+}
+
+.social-link{
+    width: 20px;
+}
